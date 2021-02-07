@@ -1,7 +1,9 @@
 # Oleg Huchev
 
 oleghuchev@gmail.com
+
 Skype: live:digrifine
+
 +375293413613
 
 ---

@@ -1,0 +1,49 @@
+header {
+	display: inline-flex;
+}
+
+.image {
+	height: 200px;
+	width: 200px;
+	border-radius: 60px;
+}
+.contact {
+	padding-left: 30px;
+	margin-top: auto;
+}
+body {
+	max-width: 960px;
+	margin-left: 25%;
+	margin-right: 25%;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.goals {
+	max-width: 700px;
+	font-size: 20px;
+	text-decoration-color: white;
+}
+
+footer {
+	width: auto;
+	background: rgb(66, 66, 66);
+	height: 100px;
+}
+
+.footer_massege {
+	padding: 39px;
+	color: white;
+}
+
+pre {
+	background-color: rgb(243, 226, 194);
+}
+
+hr {
+	size: 2px;
+}
+hr.articles_hr {
+	border: 1px solid lightgray;
+}
+.sections_hr {
+	border: 2px solid black;
+}

@@ -15,6 +15,7 @@ body {
 	max-width: 960px;
 	margin-left: 25%;
 	margin-right: 25%;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .goals {
 	max-width: 700px;
@@ -40,9 +41,9 @@ pre {
 hr {
 	size: 2px;
 }
-hr.article_hr {
-	border: 2px solid black;
+hr.articles_hr {
+	border: 1px solid lightgray;
 }
 .sections_hr {
-	border: 2px solid lightgray;
+	border: 2px solid black;
 }
